@@ -1,0 +1,4 @@
+v 4
+file . "priority_mux.vhdl" "2fabd7b65eff26f8924fa7fce09a212162613849" "20230706212848.407":
+  entity priority_mux at 1( 0) + 0 on 11;
+  architecture behavioral of priority_mux at 19( 435) + 0 on 12;
